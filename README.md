@@ -8,7 +8,6 @@
 **Инструменты, с которыми я работаю:**
 Python, SQL, Tableau, Power Query, A/B тесты, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 
-**Для связи со мной:**
-https://t.me/VP_93
-
+**Для связи со мной:**\
+https://t.me/VP_93\
 valeriyap.93@yandex.by
